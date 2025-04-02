@@ -3,6 +3,11 @@
 🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
 
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
+# Dataset Link
+
+[Zomato_data_Analysis](https://www.kaggle.com/datasets/anas123siddiqui/zomato-database)
+
+<img src="zomato_dashboard.png" width=1000>
 
 # Project Overview
 By leveraging Power BI's data visualization and exploration capabilities, we were able to gain valuable insights into Zomato's operations, including:
@@ -26,11 +31,10 @@ Insights from the Dashboard
 # Zomato Overview:
 The company is providing services in 150,281 locations and has connected with 100,000 restaurants, from which it has received 150,281 orders.
 # Key Metrics:
-Amount: ₹987 million
+Amount: ₹964 million
 Quantity: 2 million
 Rating: 148,000
-Orders: 150,000
+Orders: 149,000
 # Category Breakdown:
-Non-Veg: ₹106 million in sales with a rating of 10,000
-Veg: ₹122 million in sales with a rating of 12,000
-Others: ₹24 million in sales with a rating of 927
+Non-Veg: ₹107 million in sales 
+Veg: ₹122 million in sales 
