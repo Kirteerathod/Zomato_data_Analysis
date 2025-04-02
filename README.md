@@ -7,7 +7,7 @@ In this project, we explore valuable insights gleaned from analyzing Zomato's da
 
 [Zomato_data_Analysis](https://www.kaggle.com/datasets/anas123siddiqui/zomato-database)
 
-<img src="zomato_dashboard.png" width=1000>
+<img src="zomato_dash.png" width=1000>
 
 # Project Overview
 By leveraging Power BI's data visualization and exploration capabilities, we were able to gain valuable insights into Zomato's operations, including:
