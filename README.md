@@ -37,4 +37,9 @@ Rating: 148,000
 Orders: 149,000
 # Category Breakdown:
 Non-Veg: ₹107 million in sales 
-Veg: ₹122 million in sales 
+Veg: ₹122 million in sales
+
+# Conclusion
+This project offers actionable insights to optimize operations, enhance user experience, and drive business growth in the competitive food delivery landscape.
+
+Let's connect and explore opportunities to leverage analytics for your business success!
